@@ -1,12 +1,14 @@
 # Task 6: Update and Search Products or Buyers
 
 
-  ### 🛠️ Requirements
+  ##  Requirements
 
-  #### ✔️ XAMPP / WAMP / LAMP (Local Server)
-  #### ✔️ PHP 8+
-  #### ✔️ MySQL Database
-  #### ✔️ Web Browser (Chrome, Firefox, etc.)
+  ###  XAMPP / WAMP / LAMP (Local Server)
+  ###  PHP 8+
+  ###  MySQL Database
+  ###  Web Browser (Chrome, Firefox, etc.)
+
+  ## Setup
 
   1. **Clone the Repository**:
 
